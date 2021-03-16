@@ -28,7 +28,7 @@
 
 7. PropIn [16 - March - 2021]
 - Source code: [PropIn - Source](https://github.com/mfebriann/PropIn)
-- Demo website: [Demo website](https://prop-in-mfebriann.vercel.app/) 
+- Demo website: [Demo website](https://prop-in.vercel.app/) 
 
 ## Designs
 
