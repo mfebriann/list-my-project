@@ -3,16 +3,13 @@
 ## Top 3 awesome projects
 
 1. PropIn [16 - March - 2021]
- - Source code: [PropIn - Source](https://github.com/mfebriann/PropIn)
- - Demo website: [Demo website](https://prop-in.vercel.app/) 
+![Preview PropIn](screenshot/preview-propIn.png)
 
 2. Beli-Hamburger [9 - March - 2021]
- - Source code: [Beli-Hamburger - Source](https://github.com/mfebriann/beli-hamburger)
- - Demo website: [Demo website](https://beli-hamburger.netlify.app/)
+![Preview Beli Hamburger](screenshot/preview-beliHamburger.png)
 
 3. CariMakan (Mobile App) [9 - February - 2021]
- - Source design: [Figma - Source](https://www.figma.com/file/DPwyNstEOBMTaeVtDeGVLa/Beli-Hamburger?node-id=0%3A1)
- - Check design: [Design - CariMakan](https://dribbble.com/shots/15286614-CariMakan)
+![Preview CariiMakan Moile App](screenshot/preview-cariMakan.png)
 
 ## Website Landing Page
 
