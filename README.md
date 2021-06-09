@@ -41,7 +41,9 @@
 - Source code: [PropIn - Source](https://github.com/mfebriann/PropIn)
 - Demo website: [PropIn](https://prop-in.vercel.app/) 
 
-8. To-do List [23-April-2021]
+## Learn Javascript
+
+1. To-do List [23-April-2021]
 - Source code: [To-do List - Source](https://github.com/mfebriann/to-do-list)
 - Demo website: [To-do List](https://mfebriann.github.io/to-do-list/)
 
