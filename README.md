@@ -2,7 +2,7 @@
 
 ## Top 3 awesome projects
 
-1. [Kopai](https://github.com/mfebriann/list-my-project#8-kopai-9---june---2021) [Demo](https://kopai.vercel.app/)
+1. [Kopai](https://github.com/mfebriann/list-my-project#8-kopai-9---june---2021) [[Demo](https://kopai.vercel.app/)]
 ![Preview Kopai](screenshot/kopai.png)
 
 2. [Beli-Hamburger](https://github.com/mfebriann/list-my-project#6-beli-hamburger-9---march---2021) [Demo](https://beli-hamburger.netlify.app/)
